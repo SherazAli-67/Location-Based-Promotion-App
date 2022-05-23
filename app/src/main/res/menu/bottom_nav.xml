@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home_item"
+        android:title="@string/home_item"
+        android:icon="@drawable/ic_home"></item>
+
+    <item android:id="@+id/subscribed_item"
+        android:title="@string/subscribed"
+        android:icon="@drawable/ic_subscribe"></item>
+
+    <item android:id="@+id/setting_item"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings"></item>
+
+</menu>

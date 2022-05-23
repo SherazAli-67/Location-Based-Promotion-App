@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/drawable/ic_location.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/drawable/layout_drawable.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/drawable/search_drawable.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/drawable/signup_drawable.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/activity_create_compaign.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/activity_detailed_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/activity_signup.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/activity_user_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/compaign.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/confirm_location_bottomsheet.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/confirm_subscription_bottomsheet.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/fragment_retailer_home.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/fragment_retailer_map.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/fragment_retailer_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/fragment_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/fragment_subscribed_store.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/retailer_statistics_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/retailer_store_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/user_store_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/layout/user_subscribed_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/menu/bottom_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/menu/logout_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PromotionApp/app/src/main/res/menu/retailer_bottom_nav.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

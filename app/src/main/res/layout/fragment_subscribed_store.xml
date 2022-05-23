@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".user.fragments.SubscribedStoreFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hello_user"
+            android:textColor="@color/brown"
+            android:fontFamily="@font/app_font"
+            android:paddingRight="10dp"
+            android:textSize="20dp"
+            android:id="@+id/userSubscribedFrag_userName"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/your_subscribed_stores"
+            android:textColor="@color/brown"
+            android:fontFamily="@font/app_font"
+            android:paddingRight="10dp"
+            android:textSize="18dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"></TextView>
+
+        <GridView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:numColumns="2"
+            android:id="@+id/userSubscribedGridView"
+            android:horizontalSpacing="4dp"
+            android:verticalSpacing="4dp"
+            tools:listitem="@layout/user_subscribed_layout"></GridView>
+    </LinearLayout>
+</FrameLayout>
