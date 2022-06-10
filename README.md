@@ -3,17 +3,17 @@ The projects helps user to create account and can subscribe to any of the availa
 
 
 Account Creation screen
-<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/create_account.png" width=450 height=700>
+<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/create_account.png" width=500 height=800>
 
 Home Screen
-<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/home_screen.png">
+<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/home_screen.png" width=500 height=800>
 
 User subscribing to any store.
-<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/creating_store.png">
+<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/creating_store.png" width=500 height=800>
 
 Subscribed Store
-<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/subscribed_stores.png">
+<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/subscribed_stores.png" width=500 height=800>
 
 Settings Screen
-<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/settings.png">
+<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/settings.png" width=500 height=800>
 
