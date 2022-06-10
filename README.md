@@ -3,7 +3,7 @@ The projects helps user to create account and can subscribe to any of the availa
 
 
 Account Creation screen
-<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/create_account.png">
+<img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/create_account.png" width=450 height=700>
 
 Home Screen
 <img src="https://github.com/SherazAli-67/Location-Based-Promotion-App/blob/master/img/home_screen.png">
